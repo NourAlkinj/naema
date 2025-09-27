@@ -91,13 +91,6 @@ php artisan migrate --seed
 
 php artisan serve
 
-### System Roles
-
-| Role           | Permissions                                                         | Dashboard / API Access |
-| -------------- | ------------------------------------------------------------------- | ---------------------- |
-| **User**       | Register & login, browse restaurants & meals, create & track orders | `/api/user`            |
-| **Restaurant** | Register & login, manage own meals, view & update orders            | `/api/restaurant`      |
-
 ### Database Structure
 
 | Table        | Columns                                                                             |
