@@ -73,7 +73,6 @@ It can be consumed by a **mobile app** or **frontend client**.
 ### 1. Clone the Repository
 
 git clone https://github.com/NourAlkinj/naema.git
-cd naema
 
 ### 2. Install Dependencies
 
